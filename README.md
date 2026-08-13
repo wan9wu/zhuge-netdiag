@@ -8,6 +8,9 @@
 
 到本仓库的 **Releases** 页面下载压缩包，解压后得到两个免安装的单文件程序：
 
+- GitHub：https://github.com/wan9wu/zhuge-netdiag
+- Gitee（国内镜像）：https://gitee.com/imwenzhu/zhuge-netdiag
+
 | 程序 | 说明 |
 |---|---|
 | `zhuge-netdiag-gui.exe` | 图形界面版，双击即用（推荐） |
