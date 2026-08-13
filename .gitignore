@@ -1,5 +1,8 @@
 /target
 
+# 本地打包的发行产物（通过 GitHub/Gitee Release 附件发布）
+/release
+
 # 运行时生成的诊断报告
 网络诊断报告_*.md
 *.log
